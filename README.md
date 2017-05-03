@@ -3,13 +3,13 @@
 ---Microblog---
 
 
-HTML Templates:
-    -Base
-    -Index
-    -Views
+* HTML Templates:
+    * Base
+    * Index
+    * Views
 
-Python:
-    - __init__.py
-    - views.py
-    - formms.py
+* Python:
+    * __init__.py
+    * views.py
+    * forms.py
     
