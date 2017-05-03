@@ -9,7 +9,7 @@
     * Views
 
 * Python:
-    * __init__.py
+    * __ init __.py
     * views.py
     * forms.py
     
